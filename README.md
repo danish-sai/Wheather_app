@@ -28,7 +28,8 @@ This is a modern weather app built using **React** and **Vite**, providing real-
 1. **Clone this repo**  
    Open terminal and run:
 
-   git clone https://github.com/ak-pheonix/weather-app.git
+   https://github.com/danish-sai/Wheather_app.git
+
    cd weather-app
 
 2. **Install the dependencies**
@@ -43,10 +44,11 @@ Paste this line inside:
 
 VITE_API_KEY=your_openweathermap_api_key
 
+
 4. **Start the server**
 
 npm run dev
 
 
 ## 🙋‍♂️ Developed by
-Ahmad Sajid 
+Danish Saif
